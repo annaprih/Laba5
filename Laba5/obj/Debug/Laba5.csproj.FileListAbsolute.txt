@@ -1,0 +1,12 @@
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\bin\Debug\Laba5.exe.config
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\bin\Debug\Laba5.exe
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\bin\Debug\Laba5.pdb
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\obj\Debug\Laba5.exe
+C:\Users\Eduard\Учёба\Университет 4 семестр\ООП\Лабораторные\Laba5\Laba5\obj\Debug\Laba5.pdb
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\bin\Debug\Laba5.exe.config
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\obj\Debug\Laba5.exe
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\obj\Debug\Laba5.pdb
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\bin\Debug\Laba5.exe
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\bin\Debug\Laba5.pdb
+D:\Univer\4 семестр\С#\Labs\Laba5\Laba5\obj\Debug\Laba5.csprojResolveAssemblyReference.cache
